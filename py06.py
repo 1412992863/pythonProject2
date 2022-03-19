@@ -15,4 +15,4 @@ if __name__ == '__main__':
         else:
             print("预测%d次，你猜中了！" % count)
             break
-
+        count = count + 1
